@@ -21,11 +21,13 @@ pip install -r requirements.txt
 python main.py
 
 ### 2. Frontend & Dashboard (TS/JS)
+```bash
 cd frontend
 npm install
 npm run dev
 
 ### 3. Infrastruktur (Terraform)
+```bash
 cd terraform
 terraform init
 terraform apply
