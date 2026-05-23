@@ -20,17 +20,17 @@ cd backend
 pip install -r requirements.txt
 python main.py
 
-### 2. Frontend & Dashboard (TS/JS)
-```bash
+2. Frontend & Dashboard (TS/JS)
 cd frontend
 npm install
 npm run dev
 
+
 ### 3. Infrastruktur (Terraform)
-```bash
 cd terraform
 terraform init
 terraform apply
+
 
 📋 Kontribusi
 ​Kami sangat terbuka untuk kontribusi dari komunitas!
